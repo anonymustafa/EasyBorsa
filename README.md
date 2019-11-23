@@ -1,7 +1,6 @@
+
 # Easy Borsa
 
-
-## Getting Started
 
 Can easily pull data with EasyBorsa and You can handle
 
@@ -14,11 +13,21 @@ Can easily pull data with EasyBorsa and You can handle
     $doviz= new EasyBorsa('doviz'); 
     echo $doviz->get('dolar'); /* dolar , euro , dolareuro , eurodolar */
 
-#### Features
-   1.) 
-    ('LTC','TL') , ('LTC','USD') , ('ETH','TL') , ('ETH','USD') , ('BTC','TL') ,  ('BTC','USD') , ('XRP','TL') , ('XRP','USD') , ('USDT','TL') , ('USDT','USD') default = ('ETH','TL')
-   2.)
-    dolar , euro , dolareuro , eurodolar
+### Features
+	 1.)
+	 ('LTC','TL') 
+	 ('LTC','USD') 
+	 ('ETH','TL') 
+	 ('ETH','USD') 
+	 ('BTC','TL') 
+	 ('BTC','USD')
+	 ('XRP','TL')
+	 ('XRP','USD') 
+	 ('USDT','TL') 
+	 ('USDT','USD') 
+	 default = ('ETH','TL')
+######
+		 2.) dolar, euro , dolareuro , eurodolar
 
 
 
